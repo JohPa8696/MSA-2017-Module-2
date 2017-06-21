@@ -1,0 +1,15 @@
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\EmotionClassifier.dll
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\EmotionClassifier.pdb
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\obj\Debug\EmotionClassifier.csprojResolveAssemblyReference.cache
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\obj\Debug\EmotionClassifier.MainPage.xaml.g.cs
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\obj\Debug\EmotionClassifier.App.xaml.g.cs
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\obj\Debug\EmotionClassifier.dll
+c:\users\johnn\documents\visual studio 2017\Projects\EmotionClassifier\EmotionClassifier\EmotionClassifier\obj\Debug\EmotionClassifier.pdb
